@@ -7,3 +7,5 @@ List of Exception i am faced
 extentReport = new extentReports();
 htmlReporter = new extentHtmlReporter("ExtentReport.html);
 extentReport.attachReporter(htmlReporter);
+
+I always have exceptions
