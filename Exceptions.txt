@@ -1,0 +1,9 @@
+List of Exception i am faced
+
+1.Null pointer Exception
+2.WebDriverException
+3.IllegalStateException
+
+extentReport = new extentReports();
+htmlReporter = new extentHtmlReporter("ExtentReport.html);
+extentReport.attachReporter(htmlReporter);
