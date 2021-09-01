@@ -9,3 +9,6 @@ htmlReporter = new extentHtmlReporter("ExtentReport.html);
 extentReport.attachReporter(htmlReporter);
 
 I always have exceptions
+
+added audio feature
+added video feature
